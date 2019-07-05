@@ -1,0 +1,49 @@
+.page1{
+	background: url(../image/婚礼.png);
+	background-size: cover;
+}
+.page1 img{
+	position: absolute;
+
+}
+.page1 .tu1{
+	 width: 100%;
+	 height: 100%;
+	 top: 0rem;
+	 left: 0rem;
+	}
+.page1 .tu2{
+		width: 22%;
+		height: 10%;
+		top: 5rem;
+		left: 1.4rem;
+	   }
+.page1 .tu3{
+		width: 100%;
+		height: 12%;
+		top: .4rem;
+		left: .2rem;
+	   }
+.page1 .tu4{
+		width: 99%;
+		height: 23%;
+		top: 3rem;
+		left: 0rem;
+	   }
+.page1-1 .name1{
+	position: absolute;
+	font-size: .4rem;
+	color:pink;
+	z-index: 10;
+	top: 5.1rem;
+	left: .5rem;
+}
+.page1-1 .name2{
+	color: pink;
+	position: absolute;	
+	font-size: .4rem;
+	float: left;
+	z-index: 10;
+	top: 5.1rem;
+	left: 2.3rem;
+}
